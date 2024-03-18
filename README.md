@@ -9,7 +9,7 @@ This is a task management application built using React. It allows users to orga
 4. [Contributing](#contributing)
 5. [License](#license)
 6. [Dependencies](#dependencies)
-7. [Credits](#credits)
+7. [Screenshoot](#Screenshoot)
 
 ## Features
 
@@ -37,35 +37,7 @@ To run the application locally, follow these steps:
 
 Contributions are welcome! If you have any ideas for improvements or new features, feel free to open an issue or submit a pull request. Please make sure to follow the [Contributing Guidelines](CONTRIBUTING.md).
 
-## License
 
-This project is licensed under the [MIT License](LICENSE).
-
-## Dependencies
-
-This project relies on the following dependencies:
-
-- **React**: A JavaScript library for building user interfaces. [Learn More](https://reactjs.org/)
-- **Font Awesome**: An icon toolkit for adding icons to the application. [Learn More](https://fontawesome.com/)
-- **react-fontawesome**: A library for using Font Awesome icons in React components. [Learn More](https://www.npmjs.com/package/@fortawesome/react-fontawesome)
-
-You can install these dependencies using npm:
-
-5. Open [http://localhost:3000](http://localhost:3000) to view the application in your browser.
-
-## Usage
-
-- Add tasks by clicking the "+ Add a card" button in any column.
-- Move tasks between columns by dragging and dropping them.
-- Manage tasks within each column (e.g., edit task details, mark as completed).
-
-## Contributing
-
-Contributions are welcome! If you have any ideas for improvements or new features, feel free to open an issue or submit a pull request. Please make sure to follow the [Contributing Guidelines](CONTRIBUTING.md).
-
-## License
-
-This project is licensed under the [MIT License](LICENSE).
 
 ## Dependencies
 
@@ -78,35 +50,6 @@ This project relies on the following dependencies:
 You can install these dependencies using npm:
 
 
-5. Open [http://localhost:3000](http://localhost:3000) to view the application in your browser.
-
-## Usage
-
-- Add tasks by clicking the "+ Add a card" button in any column.
-- Move tasks between columns by dragging and dropping them.
-- Manage tasks within each column (e.g., edit task details, mark as completed).
-
-## Contributing
-
-Contributions are welcome! If you have any ideas for improvements or new features, feel free to open an issue or submit a pull request. Please make sure to follow the [Contributing Guidelines](CONTRIBUTING.md).
-
-## License
-
-This project is licensed under the [MIT License](LICENSE).
-
-## Dependencies
-
-This project relies on the following dependencies:
-
-- **React**: A JavaScript library for building user interfaces. [Learn More](https://reactjs.org/)
-- **Font Awesome**: An icon toolkit for adding icons to the application. [Learn More](https://fontawesome.com/)
-- **react-fontawesome**: A library for using Font Awesome icons in React components. [Learn More](https://www.npmjs.com/package/@fortawesome/react-fontawesome)
-
-You can install these dependencies using npm:
-
-
-5. Open [http://localhost:3000](http://localhost:3000) to view the application in your browser.
-
 ## Usage
 
 - Add tasks by clicking the "+ Add a card" button in any column.
@@ -115,17 +58,8 @@ You can install these dependencies using npm:
 
 
 
+## Screenshoot
 
-
-## Dependencies
-
-This project relies on the following dependencies:
-
-- **React**: A JavaScript library for building user interfaces. [Learn More](https://reactjs.org/)
-- **Font Awesome**: An icon toolkit for adding icons to the application. [Learn More](https://fontawesome.com/)
-- **react-fontawesome**: A library for using Font Awesome icons in React components. [Learn More](https://www.npmjs.com/package/@fortawesome/react-fontawesome)
-
-You can install these dependencies using npm:   (npm install react font-awesome @fortawesome/react-fontawesome)
 
 <p align="center"><img src="quest-lab-assignment\ImagesData\Todoimg.png"  alt="Coding" width="45%"></p>
 
