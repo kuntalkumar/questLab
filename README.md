@@ -60,11 +60,16 @@ You can install these dependencies using npm:
 
 ## Screenshoot
 
-
+<h3> Todo  </h3>
 <p align="center"><img src="quest-lab-assignment\ImagesData\Todoimg.png"  alt="Coding" width="45%"></p>
+<h3> In Progress  </h3>
 
 <p align="center"><img src="quest-lab-assignment\ImagesData\img1.png"  alt="Coding" width="45%"></p>
+<h3> Review  </h3>
+
 <p align="center"><img src="quest-lab-assignment\ImagesData\Reviewimg.png"  alt="Coding" width="45%"></p>
+<h3> Done  </h3>
+
 <p align="center"><img src="quest-lab-assignment\ImagesData\Doneimg.png"  alt="Coding" width="45%"></p>
 
 
