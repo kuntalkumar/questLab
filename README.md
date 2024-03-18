@@ -127,11 +127,11 @@ This project relies on the following dependencies:
 
 You can install these dependencies using npm:   (npm install react font-awesome @fortawesome/react-fontawesome)
 
-<p align="center"><img src="quest-lab-assignment\ImagesData\Todoimg.png"  alt="Coding" width="50%"height="500"></p>
+<p align="center"><img src="quest-lab-assignment\ImagesData\Todoimg.png"  alt="Coding" width="45%"></p>
 
-<p align="center"><img src="quest-lab-assignment\ImagesData\img1.png"  alt="Coding" width="50%"height="500"></p>
-<p align="center"><img src="quest-lab-assignment\ImagesData\Reviewimg.png"  alt="Coding" width="50%"height="500"></p>
-<p align="center"><img src="quest-lab-assignment\ImagesData\Doneimg.png"  alt="Coding" width="50%"height="500"></p>
+<p align="center"><img src="quest-lab-assignment\ImagesData\img1.png"  alt="Coding" width="45%"></p>
+<p align="center"><img src="quest-lab-assignment\ImagesData\Reviewimg.png"  alt="Coding" width="45%"></p>
+<p align="center"><img src="quest-lab-assignment\ImagesData\Doneimg.png"  alt="Coding" width="45%"></p>
 
 
 
