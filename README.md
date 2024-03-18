@@ -127,7 +127,7 @@ This project relies on the following dependencies:
 
 You can install these dependencies using npm:   (npm install react font-awesome @fortawesome/react-fontawesome)
 
-<p align="center"><img src="frontend\questLab\quest-lab-assignment\ImagesData\Doneimg.png"  alt="Coding" width="100%"height="500"></p>
+<p align="center"><img src="quest-lab-assignment\ImagesData\Doneimg.png"  alt="Coding" width="100%"height="500"></p>
 
 `path/to/frontend\questLab\quest-lab-assignment\ImagesData\Doneimg.png`
 
