@@ -1,0 +1,18 @@
+.App{
+  background-color: rgb(55, 55, 234);
+  font-weight: 500;
+  font-size: small;
+display: flex;
+justify-content: space-around;  
+padding: 15px;
+height: 100%;
+color: rgb(29, 29, 59);
+}
+button{
+  cursor: pointer;
+  border: none;
+  position: relative;
+  left: 5%;
+  font-weight: 400;
+  
+  }

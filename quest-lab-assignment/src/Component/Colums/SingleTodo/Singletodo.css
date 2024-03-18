@@ -1,0 +1,33 @@
+#single{
+    height: 12%;
+    width: 88%;
+    border-radius: 10px;
+    box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+    background-color: white;
+    align-items: start;
+    padding: 15px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    margin: 5px;
+}
+#single:hover{
+    scale: 1.05;
+}
+
+#single div{
+    margin-top: 2px;
+}
+#priority{
+    height: 7px;
+    width: 35px;
+    background-color:green; 
+    border: none;
+    border-radius: 5px;
+}
+#third{
+    display: flex;
+    justify-content: start;
+    gap: 50px;
+   
+}
